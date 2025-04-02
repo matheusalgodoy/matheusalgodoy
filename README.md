@@ -23,16 +23,6 @@ Desenvolvedor Full Stack especializado em criar projetos dinâmicos, interativos
 • Explorar integração de ferramentas de IA no processo de desenvolvimento<br>
 </details>
 
-## 🚀 Principais Projetos
-
-<div align="center">
-  <a href="#">
-    <img src="beariaatualizada.vercel.app" width="49%" />
-  </a>
-  <a href="#">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=MatheusGodoy&repo=modelo-projeto-barbearias&theme=radical](https://sensoomotel.vercel.app)" width="49%" />
-  </a>
-</div>
 
 ### 📱 Desenvolvimento iOS
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Core_Data-3A95E3?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=uikit&logoColor=white"/>
@@ -81,13 +71,13 @@ Aplicação desenvolvida para gerenciamento de barbearias, com funcionalidades d
 ## 📫 Contato
 
 <div>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="matheusgodoy20@icloud.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seuperfil/">
+  <a href="https://www.linkedin.com/in/matheus-alves-de-azevedo-godoy-487204221/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/seuperfil/">
+  <a href="https://www.instagram.com/matheusalgodoy/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>

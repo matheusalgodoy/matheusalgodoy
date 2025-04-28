@@ -41,27 +41,11 @@ Aplicação desenvolvida para gerenciamento de barbearias, com funcionalidades d
 ## 💻 Stack Tecnológica
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </div>
-
-**Linguagens & Frameworks:**
-- Swift, SwiftUI, UIKit
-- Objective-C (conhecimentos básicos)
-- Firebase, CloudKit
-
-**Ferramentas & Metodologias:**
-- Git & GitHub
-- MVVM, MVC, Clean Architecture
-- Testes unitários e UI testing
-- Xcode, CocoaPods, SPM
-- Integração com ferramentas de IA para otimização de código
-
-## 📈 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusGodoy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em"/>
